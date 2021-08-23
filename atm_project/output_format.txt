@@ -1,0 +1,6 @@
+1 line per transaction
+Possible responses:
+    - FUNDS_ERR (funds not available)
+    - ATM_ERR (ATM out of cash)
+    - ACCOUNT_ERR (account details not validated)
+    - remained costumer balance (after operation goes through)

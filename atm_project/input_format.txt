@@ -1,0 +1,15 @@
+<total_cash_atm>
+
+<account_number> <correct_pin> <inserted_pin>
+<current_balance> <overdraft_facility>
+<transaction>
+<transaction>
+<transaction>
+
+<account_number> <correct_pin> <inserted_pin>
+<current_balance> <overdraft_facility>
+<transaction>
+<transaction>
+<transaction>
+
+etc...
