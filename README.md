@@ -13,9 +13,9 @@ The files for the first task, as well as the picture chosen can be found in the 
 
 ### The application can be tested in two ways:
 
-    1. While inside the "atm_project" type "node . input.txt" to run the main project file (app.js) and test the input file as provided in the task example.
+    1. While inside the "atm_project" type "node . input.txt" to run the main project file (app.js) and <br /> test the input file as provided in the task example.
 
-    2. While also inside "atm_project" type "node test" to rest jest unit tests for the Account class, which are contained inside the 'account.test.js' file inside the 'test/models' folder.
+    2. While also inside "atm_project" type "node test" to run jest unit tests for the Account class, <br /> which are contained inside the 'account.test.js' file inside the 'test/models' folder.
 
 ## User Story
 
